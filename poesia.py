@@ -1,2 +1,1 @@
-print("Esse é um arquivo de poesia...")
-print("Alterei essa linha usando o repo local")
+print("Aqui é o mesmo arquivo porém melhorado, com as correções dos bugs")
