@@ -1,1 +1,1 @@
-print("Aqui é o mesmo arquivo porém melhorado, com as correções dos bugs")
+print("Esse é o arquivo que contem as alterações feitas pelo time A.")
